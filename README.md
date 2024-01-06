@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fnajim
+- 👀 I’m interested in Python Programming, Machine Learning, Aritificial Intelligence
+- 💞️ I’m looking to collaborate on Machine Learning, Aritificial Intelligence
